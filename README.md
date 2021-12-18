@@ -14,4 +14,5 @@ Include the images of the students and rename them accordingly.<br>
   <li>Name2</li>
   <li>Name3</li>
 </ol><br>
-Run the <code>python face-recog.py</code> & attendance will be marked for every student once a day. No duplicates will be recorded for a day.<br><br>Sample output of the <code>attendance.csv</code><br>![image](https://user-images.githubusercontent.com/72505269/146650764-0efd71c7-f3b3-4f64-ada6-fa8677ecb530.png)
+Run the <code>python face-recog.py</code> & attendance will be marked for every student once a day. No duplicates will be recorded for a day.<br><br>Sample output of the <code>attendance.csv</code><br>
+![image](https://user-images.githubusercontent.com/72505269/146651058-18e51a9a-1c83-4254-9e0e-2199b455e678.png)
